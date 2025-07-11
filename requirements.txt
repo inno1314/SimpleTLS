@@ -1,0 +1,4 @@
+pwntools==4.14.1
+pycryptodome==3.23.0
+requests==2.32.4
+unicorn==2.1.1
